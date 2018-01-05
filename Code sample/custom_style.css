@@ -1,0 +1,752 @@
+/*==   Comman CSS START Here   ==*/
+
+.section_title
+{
+	font-size:45px;
+	color:#1a1a1a;
+	margin-top:0;
+	margin-bottom:30px;
+}
+.white_color
+{
+	color:#fff;
+}
+.section_title strong
+{
+	color:#0182b4;
+	font-weight:500;
+}
+.button_padding button
+{
+	padding:15px 35px !important;
+	font-size:18px !important;
+}
+.no_border .vc_column_container
+{
+	border:0px !important;
+}
+.border-bottom_1 .vc_column_container
+{
+	border-bottom:1px solid #ddd;
+	background:#fff;
+}
+.button_margin
+{
+	margin-top:30px;
+	margin-bottom:50px;
+}
+.button_margin .vc_btn3-container
+{
+	margin-bottom:0;
+}
+.page_title_main
+{
+	font-family:'Averta-Semibold';
+}
+.no_margin_btm
+{
+	margin-bottom:0 !important;
+}
+.margin_btm_15
+{
+	margin-bottom:15px;
+}
+.des
+{
+	font-size:16px;
+	font-weight:300;
+	color:#fff;
+	line-height:22px;
+}
+body.page-id-316 .footer-consult,
+body.page-id-286 .footer-consult
+{
+	display:none;
+}
+/*==   Comman CSS END Here   ==*/
+
+
+/*==   FIRST BANNER CSS START Here   ==*/
+
+#showcase_main_div
+{
+	max-width:1140px;
+	margin:0 auto;
+	padding-top:150px;
+	padding-bottom:150px;
+}
+.showcase_title p
+{
+	font-size:60px;
+	color:#fff;
+}
+.showcase_button button
+{
+	font-size:24px !important;
+	border-width:1px !important;
+	padding:15px 35px !important;
+}
+
+/*==   FIRST BANNER CSS END Here   ==*/
+
+
+/*==   Categories CSS Start Here   ==*/
+
+#categories-main-div .wpb_single_image
+{
+	position:relative;
+	margin-bottom:2px;
+}
+#categories-main-div .vc_column-inner .vc_column-inner
+{
+	padding-left:1px;
+	padding-right:1px;
+}
+#categories-main-div .wpb_single_image .wpb_singleimage_heading
+{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	color:#fff;
+	margin:0;
+	font-family: 'Averta-Semibold';
+	font-size:36px;
+}
+
+/*==   Categories CSS END Here   ==*/
+
+
+/*==   FEATURED BRANDS CSS START Here   ==*/
+
+#featured_brands_main .vc_row .vc_column_container
+{
+	border-left:1px solid #ddd;
+}
+#featured_brands_main .wpb_single_image.vc_align_left
+{
+	margin-bottom:0 !important;
+}
+
+/*==   FEATURED BRANDS CSS END Here   ==*/
+
+
+/*==   Our Products list main CSS Start Here   ==*/
+
+ul.product_list_main li > .product_img
+{
+	padding:0;
+}
+ul.product_list_main li
+{
+	width:50%;
+	float:left;
+	background:#606060;
+	border-top:1px solid #ddd;
+}
+li .product_img
+{
+	border-right:1px solid #ddd;
+	border-left:1px solid #ddd;
+}
+ul.product_list_main:nth-child(even) li .product_img
+{
+	float:right;
+}
+ul.product_list_main li .product_content
+{
+	padding-top:24px;
+	padding-left:24px;
+	padding-right:24px;	
+}
+ul.product_list_main li .product_content a.product_title
+{
+	font-size:23px;
+	color:#fff;
+	font-family: 'Montserrat-Regular';
+}
+ul.product_list_main li .product_content .product_des
+{
+	font-size:14px;
+	color:#c9c9c9;
+	margin-top:24px;
+	line-height:23px;
+	margin-bottom:10px;
+	font-family: 'Montserrat-Light';
+}
+
+ul.product_list_main li .product_content a.learn_more
+{
+	font-size:15px;
+	font-family: 'Montserrat-Medium';
+	color:#fff;
+}
+/*==   Our Products list main CSS END Here   ==*/
+
+
+/*==   Our Service CSS START Here   ==*/
+
+#our_services_main .vc_column-inner
+{
+	padding-left:0px;
+	padding-right:0px;
+}
+
+/*==   Our Service CSS END Here   ==*/
+
+
+/*==   ABOUT CSS START Here   ==*/
+
+ul.user_info_list li
+{
+	margin-bottom:8px;
+}
+ul.user_info_list li img
+{
+	margin-right:10px;
+}
+ul.user_info_list li strong
+{
+	margin-right:10px;
+	font-size:18px;
+}
+
+/*==   ABOUT US CSS START Here   ==*/
+
+
+/*==   SIGN UP CSS START Here   ==*/
+
+.user_registration_form_main
+{
+	background:#f4f5f6;
+	padding:50px 0;
+}
+.user_registration_form_main .user_registration_form
+{
+	margin:0 auto;
+	width:100%;
+	max-width:570px;
+	padding:30px 45px;
+	background:#fff;
+	border-radius:5px;
+}
+.user_registration_form_main .user_registration_form h4
+{
+	font-size:36px;
+	color:#2d2d2d;
+	text-align:center;
+	margin-bottom:20px;
+	margin-top:0;
+}
+.user_registration_form_main .user_registration_form textarea
+{
+	resize:none;
+}
+.user_registration_form_main .user_registration_form input[type="text"],
+.user_registration_form_main .user_registration_form input[type="email"],
+.user_registration_form_main .user_registration_form input[type="password"],
+.user_registration_form_main .user_registration_form textarea
+{
+	width:100%;
+	border:1px solid #dadada;
+	margin-bottom:20px;
+	padding:12px 40px 12px 15px;
+}
+.user_registration_form_main .user_registration_form input[type="checkbox"]
+{
+	margin-right:10px;
+}
+.user_registration_form_main .user_registration_form input[type="submit"]
+{
+	width:100%;
+	padding:15px 0;
+	color:#fff;
+	border:0;
+	background:#0082b4;
+	font-size:16px;
+	margin-top:20px;
+}
+.user_registration_form_main .user_registration_form label
+{
+    font-size: 15px;
+    color: #404040;
+    font-weight: 400;
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+}
+.divider_with_text
+{
+	background:#fff;
+	display:inline-block;
+	font-size:14px;
+	color:#888;
+	text-align:center;
+	position:relative;
+	width:100%;
+	margin-top:30px;
+	margin-bottom:30px;
+}
+.divider_with_text span
+{
+	position:relative;
+	z-index:99;
+	background:#fff;
+	padding:0 10px;
+}
+.divider_with_text:after
+{
+	content:" ";
+	position:absolute;
+	border-bottom:1px solid #e5e5e5;
+	width:100%;
+	left:0;
+	top:50%;
+	transform:translateY(-50%);
+	z-index:1;
+}
+.more_signup_option
+{
+	background:#f7f7f7;
+	border:1px solid #ddd;
+	display:inline-block;
+	width:100%;
+	border-radius:5px;
+}
+.more_signup_option a:first-child
+{
+	border-right:1px solid #ddd;
+}
+.more_signup_option a.signup_with_fb:hover,
+.more_signup_option a.signup_with_fb:hover i,
+.more_signup_option a.signup_with_fb:focus,
+.more_signup_option a.signup_with_fb:focus i
+{
+	background:#4d6fa9;
+	color:#fff;
+	text-decoration:none;
+}
+.more_signup_option a.signup_with_google:hover,
+.more_signup_option a.signup_with_google:hover i
+{
+	background:#dc4e41;
+	color:#fff;
+	text-decoration:none;
+}
+.more_signup_option a.signup_with_fb
+{
+	border-radius:5px 0 0 5px;
+}
+
+.more_signup_option a.signup_with_google
+{
+	border-radius:0 5px 5px 0;
+}
+.more_signup_option a
+{
+	width:50%;
+	float:left;
+	text-align:center;
+	padding:17px 0;
+	color:#555;
+}
+.more_signup_option a i
+{
+	margin-right:15px;
+	font-size:20px;
+}
+.more_signup_option a i.fa-facebook-square
+{
+	color:#4d6fa9;
+}
+.more_signup_option a i.fa-google-plus-square
+{
+	color:#dc4e41;
+}
+.already_member
+{
+	width:100%;
+	text-align:center;
+	margin-top:15px;
+}
+.user_registration_form_main .user_name,
+.user_registration_form_main .phone_number,
+.user_registration_form_main .user_email,
+.user_registration_form_main .user_password
+{
+	position:relative;
+}
+.user_registration_form_main .user_name:before,
+.user_registration_form_main .phone_number:before,
+.user_registration_form_main .user_email:before,
+.user_registration_form_main .user_password:before,
+.user_registration_form_main .address_info:before
+{
+	position:absolute;
+	font-family: 'FontAwesome';
+	bottom:35px;
+	font-size:16px;
+	right:26px;
+	z-index:98;
+	content:"\f2c0";
+	color:#888;
+}
+.user_registration_form_main .user_name:before
+{
+	content:"\f2c0";
+}
+.user_registration_form_main .phone_number:before
+{
+	content:"\f095";
+}
+.user_registration_form_main .user_email:before
+{
+	content:"\f003";
+}
+.user_registration_form_main .user_password:before
+{
+	content:"\f084";
+}
+.address_info:before
+{
+	content:"\f2ba" !important;
+	top:35px;
+	bottom:auto;
+}
+a.forget_password
+{
+	font-size:14px;
+	color:#0082b4;
+}
+
+.accept_policy_label
+{
+	padding-left:30px;
+}
+/* Hide the browser's default checkbox */
+.accept_policy_label input#accept-policy,
+.accept_policy_label input#remember_me
+{
+    position: absolute;
+    opacity: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark
+{
+    position: absolute;
+    top: 0;
+    left:15px;
+    height:18px;
+    width:18px;
+    background-color:#fff;
+	border:1px solid #ccc;
+	border-radius:5px;
+}
+
+/* On mouse-over, add a grey background color */
+.accept_policy_label:hover input ~ .checkmark {
+    background-color: #f4f4f4;
+}
+
+/* When the checkbox is checked, add a blue background */
+.accept_policy_label input:checked ~ .checkmark {
+    background-color: #fff;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+/* Show the checkmark when checked */
+.accept_policy_label input:checked ~ .checkmark:after {
+    display: block;
+}
+
+/* Style the checkmark/indicator */
+.accept_policy_label .checkmark:after {
+    left:6px;
+    top:2px;
+    width: 5px;
+    height: 10px;
+    border: solid #0082b4;
+    border-width: 0 2px 3px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+/*==   SIGN UP CSS END Here   ==*/
+
+
+/*==   Responsive CSS START Here   ==*/
+
+@media screen and (max-width:1024px) 
+{
+	ul.product_list_main li .product_img
+	{
+		width:100%;
+		border:0;
+	}
+	ul.product_list_main li .product_content
+	{
+		width: 100%;
+		margin-bottom:30px;
+	}
+}
+
+@media screen and (max-width:767px) 
+{
+	#featured_brands_main .vc_column_container .vc_col-has-fill
+	{
+		border-bottom:1px solid #ddd;
+	}
+	.showcase_title p
+	{
+		font-size:30px;
+	}
+	#showcase_main_div
+	{
+		padding-top:40px;
+		padding-bottom:40px;
+	}
+	.showcase_button button
+	{
+		font-size:16px !important;
+	}
+	#featured_brands_main .vc_column_container .vc_col-sm-3
+	{
+		width:50%;
+		float:left;
+	}
+	#banner_section_main.vc_row.vc_column-gap-30 > .vc_column_container
+	{
+		padding:10px;
+	}
+	
+}
+
+
+@media screen and (max-width:568px) 
+{
+	
+	ul.product_list_main li
+	{
+		width:100%;
+		border:0;
+	}
+	#featured_brands_main .vc_column_container .vc_col-sm-3
+	{
+		width:100%;
+		float:left;
+	}
+	.more_signup_option a.signup_with_fb
+	{
+		border-radius:5px 5px 0 0 !important;
+	}
+	.more_signup_option a.signup_with_google
+	{
+		border-radius:0 0 5px 5px !important;
+	}
+	.more_signup_option a
+	{
+		width:100%;
+		border:0 !important;
+	}
+}
+
+/*==   Responsive CSS END Here   ==*/
+
+/*==   Top Scroll CSS Start Here   ==*/
+
+.scrollup {
+    width: 40px;
+    height: 42px;
+    opacity: 0.6;
+    position: fixed;
+    bottom: 60px;
+    right: 30px;
+    display: none;
+    background: #4e95bf;
+    color: #fff;
+    border-radius: 3px;
+    font-size: 30px;
+    text-align: center;
+    outline: none;
+}
+.scrollup:hover
+{
+	opacity:1;
+}
+
+/*==    Top Scroll  CSS END Here   ==*/
+
+/*==   Mini Cart CSS Start Here   ==*/
+
+.min_cart_header {
+    float: right;
+    position: relative;
+}
+.min_cart_header .min_cart {
+    position: absolute;
+    width: 300px;
+    right: 0;
+    z-index: 1;
+    background: #1a1a1a;
+    padding: 10px;
+}
+.min_cart_header .min_cart p
+{
+	padding:0px;
+}
+.min_cart_header .min_cart .woocommerce-mini-cart-item img {
+    width: 50px;
+    height: 50px;
+	position: absolute;
+	left:0px;
+	top: 9px;
+}
+.min_cart_header .min_cart .woocommerce-mini-cart-item {
+    float: left;
+    margin-bottom: 10px;
+    list-style: none;
+    position: relative;
+    width: 100%;
+    min-height: 50px;
+    text-align: left;
+    padding-left: 60px;
+}
+.min_cart_header .min_cart .woocommerce-mini-cart-item .remove {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.min_cart_header .min_cart ul {
+    padding: 0;
+}
+.min_cart_header .min_cart .woocommerce-mini-cart-item  .variation
+{
+	margin-bottom: 0;
+	padding-left:0px;
+	display:none;
+}
+.min_cart_header .min_cart .woocommerce-mini-cart-item  .variation dt {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    font-size: 15px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+}
+.min_cart_header .min_cart .woocommerce-mini-cart-item  .variation dd
+{
+	margin-bottom: 0px;
+    width: 100%;
+    float: left;
+}
+.min_cart_header .woocommerce-mini-cart-item  .variation dd p
+{
+	margin-bottom:0px;
+}
+.min_cart_header p.woocommerce-mini-cart__total.total {
+    background: #252525;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+	margin-bottom:10px;
+}
+.min_cart_header p.woocommerce-mini-cart__buttons.buttons {
+    width: 100%;
+	
+}
+.min_cart_header p.woocommerce-mini-cart__buttons a {
+    padding: 10px;
+    background: #0082b4;
+    padding: 10px 20px;
+    margin-left: 10px;
+    float: right;
+    text-decoration: none;
+	color:#fff;
+    text-transform: uppercase;
+    font-size: 14px;
+	border-radius:0px;
+}
+.min_cart_header p.woocommerce-mini-cart__buttons a:hover
+{
+	opacity:0.9;
+	background: #0082b4;
+	color:#fff;
+}
+.min_cart_header a.remove:hover {
+    color: #fff !important;
+    background: red;
+}
+.min_cart_header a.remove {
+    display: block;
+    font-size: 1.5em;
+    height: 1em;
+    width: 1em;
+    text-align: center;
+    line-height: 1;
+    border-radius: 100%;
+    color: red !important;
+    text-decoration: none;
+    font-weight: 700;
+    border: 0;
+}
+.min_cart_header .cart-customlocation {
+    padding-top: 15px;
+    padding-bottom: 14px;
+    line-height:56px;
+    cursor: pointer;
+	text-decoration:none;
+}
+
+.woocommerce-mini-cart.cart_list.product_list_widget  {
+   width:100%;
+   
+   overflow: scroll;
+   list-style: none outside;
+    padding: 0;
+    margin: 0;
+    /* background: red; */
+    max-height: 235px;
+    float: left;
+    overflow-y: scroll;
+	overflow-x: hidden;
+}
+.woocommerce-mini-cart.cart_list.product_list_widget::-webkit-scrollbar {
+    width:3px;
+}
+
+.woocommerce-mini-cart.cart_list.product_list_widget::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px #0082b4; 
+    border-radius: 10px;
+}
+
+.woocommerce-mini-cart.cart_list.product_list_widget::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px #0082b4; 
+}
+/*==   Mini Cart CSS Start Here   ==*/
+
+
+/*=====woocommerce-breadcrumb=======*/
+div#content nav.woocommerce-breadcrumb { margin-top: 20px;}
+div#content nav.woocommerce-breadcrumb a:first-child{margin-left: 0;}
+div#content nav.woocommerce-breadcrumb a {color: #777777;font-size: 14px;font-family: 'Lato-Regular';margin: 0 3px;}
+div#content nav.woocommerce-breadcrumb a:hover{text-decoration: none;}
+div#content nav.woocommerce-breadcrumb{color: #0082b4;}
+/*=====Single-Pro-Page=======*/
+.pro-detail-main .product_description_section h1.product_title.entry-title {font-size: 23px;color: #2d2d2d; font-family: 'Lato-Semibold';}
+.pro-detail-main .product_description_section .part_name .name, .pro-detail-main .product_description_section .short_description .description {
+    display: inline;
+    padding-left: 10px;
+    font-family: 'Lato-Semibold';
+    text-transform: normal;
+}
+.pro-detail-main .product_description_section .part_name , 
+.pro-detail-main .product_description_section .short_description 
+{font-size: 15px;color: #555555;font-family: "Lato-Regular";margin-bottom: 10px;text-transform: uppercase;}
